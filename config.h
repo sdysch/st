@@ -495,3 +495,5 @@ ResourcePref resources[] = {
 		{ "borderpx",     INTEGER, &borderpx },
 		{ "alpha",        FLOAT,   &alpha },
 };
+
+int cursorstyle = 0;
